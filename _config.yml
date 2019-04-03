@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: jeremy G. says Hi !
+description: jeremy G. web supervisor
+url: https://
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,11 +29,11 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+#email:             jeremy.gilbert.co@gmail.coma
 #google.plus:        username
 twitter:            username
 #facebook:           username
-github:             username
+github:             webcambodia
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
