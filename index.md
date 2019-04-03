@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-about theme
----
 Web Cambodia Not only a website!
 ---
 
