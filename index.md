@@ -1,10 +1,22 @@
 ---
 layout: home
 ---
-# About Me
+
+About Web Cambodia
+
+Not only a website!
+
+Nowadays a website have to be linked with all social network and fit on all screen
+
+With a responsive design and a smartphone app be sure to reach the maximum audience
+
+An original and creative content will ensure a strong SEO
+
+more...
+
+
+
+
 
 This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
