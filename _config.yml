@@ -1,5 +1,5 @@
 # Site
-title: jeremy G. says Hi !
+title: WEB CAMBODIA
 description: jeremy G. web supervisor
 url: https://webcambodia.github.io/jeremy
 logo: halve.png                                       # Site logo
@@ -29,7 +29,7 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             jeremy.gilbert.co@gmail.coma
+email:             jeremy.gilbert.co@gmail.coma
 #google.plus:        username
 twitter:            username
 #facebook:           username
