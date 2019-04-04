@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: home
+---
+layout: page
 ---
 Philosophy
 ---
